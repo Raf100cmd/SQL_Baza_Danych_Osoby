@@ -3,7 +3,7 @@
   * **[Ćwiczenie 1.0](https://drive.google.com/file/d/1ZKg9u0ZVxvd9u4V7TJZnDVd29veKepdX/view?usp=sharing)**  _- Tworzenie tabeli_ _[Rozwiązanie](https://drive.google.com/file/d/1eMh32v-wkt0PyBftkOt0QzWPzSEd90ox/view?usp=sharing)_
   * **[Ćwiczenie 1.1](https://drive.google.com/file/d/1ygpXKQuQ62UHDpx0EBDAcg3bx6gIgC5J/view?usp=sharing)**  _- Importowanie danych do tabeli_ _[Rozwiązanie](https://drive.google.com/file/d/1uRguN7HkJ8oxQNIJ2Wlkw21rWLdXYDk0/view?usp=sharing)_
   * **[Ćwiczenie 1.2](https://drive.google.com/file/d/12dgzDq6ovG-Z7mLJYjMZCR5Zw-eUG-Bc/view?usp=sharing)**  _- Lista miejscowości posortowana alfabetycznie_ _[Rozwiązanie](https://drive.google.com/file/d/1ng5bCzbVzJf7Uv14njjYJYylXY-NsH7L/view?usp=sharing)_
-  * **[Ćwiczenie 1.3]()**  _- Wyświetlenie najstarszej i najmłodszej osoby z bazy danych_
+  * **[Ćwiczenie 1.3](https://drive.google.com/file/d/1PwNoSedMabt1caQ6aivvXAr4do8snuBn/view?usp=sharing)**  _- Wyświetlenie najstarszej i najmłodszej osoby z bazy danych_ _[Rozwiązanie](https://drive.google.com/file/d/1ZuSWKgQbdm0jRyNAntk6cNbWZ5e6HmB1/view?usp=sharing)_
   * **[Ćwiczenie 1.4]()**  _- Wyświetlenie liczby osób urodzonych w 1995 roku_
   * **[Ćwiczenie 1.5]()**  _- Wyświetlenie osób o saldzie dodatnim_
   * **[Ćwiczenie 1.6]()**  _- Wyświetlenie osoby o największej ilości wpłat_
