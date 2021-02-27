@@ -9,6 +9,6 @@
   * **[Ćwiczenie 1.6](https://drive.google.com/file/d/1QC9HSS3u8RGZ6nsiO4F9oyS9vJl_-NDc/view?usp=sharing)**  _- Wyświetlenie osoby o największej ilości wpłat_ _[Rozwiązanie](https://drive.google.com/file/d/10eCMU9zy9iLh-EdSNUDKMbZ6nyYVF565/view?usp=sharing)_
   * **[Ćwiczenie 1.7](https://drive.google.com/file/d/1yjW3cdZfbi_ypCMfaYygpm3rfJn7e8Rx/view?usp=sharing)**  _- Wyświetlenie osób dodanych w 2012 roku i ilości wpłat mniejszej niż 40_ _[Rozwiązanie](https://drive.google.com/file/d/1s2anZBq7-H5vCTkkEshm7Ke686yJrHlG/view?usp=sharing)_
   * **[Ćwiczenie 1.8](https://drive.google.com/file/d/19FeTOZt_ep-8-ydC3fyfrB5P7rNhSlBS/view?usp=sharing)**  _- Wyświetlenie największej średniej wpłaty_ _[Rozwiązanie](https://drive.google.com/file/d/1a2VDOAmFmELjXAY9tEK5PNJdrdqsE90-/view?usp=sharing)_
-  * **[Ćwiczenie 1.9]()**  _- Wyświetlenie najmniejszego i największego salda_
+  * **[Ćwiczenie 1.9](https://drive.google.com/file/d/1aFzjwkzQLI-favfYJmP9cfpe_j2_sBlh/view?usp=sharing)**  _- Wyświetlenie najmniejszego i największego salda_ _[Rozwiązanie](https://drive.google.com/file/d/1_7DMzLhJ8Wm4PJEz1BJ-u5EF_PboqeU2/view?usp=sharing)_
   * **[Ćwiczenie 1.10]()** _- Wyświetlenie liczby osób z kodem pocztowym kończącym się na cyfrę 7_ 
 * **Baza Danych Osoby 5000**
