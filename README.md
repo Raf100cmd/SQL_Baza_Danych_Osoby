@@ -13,7 +13,7 @@
   * **[Ćwiczenie 1.10](https://drive.google.com/file/d/1FhG8TRVaHWA91i0IU6mR3V-eyUgMxGyb/view?usp=sharing)** _- Wyświetlenie liczby osób z kodem pocztowym kończącym się na cyfrę 7_  _[Rozwiązanie](https://drive.google.com/file/d/1fp5STDa75WgC0C8KDj53UTJ2EM41vFjx/view?usp=sharing)_
   * **[Ćwiczenie 1.11](https://drive.google.com/file/d/19OSqIwX4u2cdTV218YR03e3oow2YeMWE/view?usp=sharing)** _- Wyświetlenie danych posortowanych alfabetycznie wg miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1i9sRX9flUA-XupIBhzt-xR_NV9njjsuG/view?usp=sharing)_
 * **Baza Danych Osoby 5000**
-  * **[Ćwiczenie 2.0]()** _- Usunięcie z bazy danych wykazu osób z poprzedniego zadadania_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.0](https://drive.google.com/file/d/1xZRa1ui1w2FtRWO8CRwyiIrxX50djLfb/view?usp=sharing)** _- Usunięcie z bazy danych wykazu osób z poprzedniego zadania_ _[Rozwiązanie](https://drive.google.com/file/d/1JkG7ynaRcK2p6sHtaMI3d7UQoOonNG0I/view?usp=sharing)_
   * **[Ćwiczenie 2.1]()** _- Zaimportowanie danych z pliku Osoby 5000_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.2]()** _- Wyświetlenie najbardziej zadłużónej osoby_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.3]()** _- Wyświetlenie osoby dodanej w 2012 roku z największą nadpłatą_ _[Rozwiązanie]()_
