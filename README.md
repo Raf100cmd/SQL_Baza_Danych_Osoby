@@ -11,4 +11,5 @@
   * **[Ćwiczenie 1.8](https://drive.google.com/file/d/19FeTOZt_ep-8-ydC3fyfrB5P7rNhSlBS/view?usp=sharing)**  _- Wyświetlenie największej średniej wpłaty_ _[Rozwiązanie](https://drive.google.com/file/d/1a2VDOAmFmELjXAY9tEK5PNJdrdqsE90-/view?usp=sharing)_
   * **[Ćwiczenie 1.9](https://drive.google.com/file/d/1aFzjwkzQLI-favfYJmP9cfpe_j2_sBlh/view?usp=sharing)**  _- Wyświetlenie najmniejszego i największego salda_ _[Rozwiązanie](https://drive.google.com/file/d/1_7DMzLhJ8Wm4PJEz1BJ-u5EF_PboqeU2/view?usp=sharing)_
   * **[Ćwiczenie 1.10](https://drive.google.com/file/d/1FhG8TRVaHWA91i0IU6mR3V-eyUgMxGyb/view?usp=sharing)** _- Wyświetlenie liczby osób z kodem pocztowym kończącym się na cyfrę 7_  _[Rozwiązanie](https://drive.google.com/file/d/1fp5STDa75WgC0C8KDj53UTJ2EM41vFjx/view?usp=sharing)_
+  * **[Ćwiczenie 1.11](https://drive.google.com/file/d/19OSqIwX4u2cdTV218YR03e3oow2YeMWE/view?usp=sharing)** _- Wyświetlenie danych posortowanych alfabetycznie wg miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1i9sRX9flUA-XupIBhzt-xR_NV9njjsuG/view?usp=sharing)_
 * **Baza Danych Osoby 5000**
