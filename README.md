@@ -13,3 +13,16 @@
   * **[Ćwiczenie 1.10](https://drive.google.com/file/d/1FhG8TRVaHWA91i0IU6mR3V-eyUgMxGyb/view?usp=sharing)** _- Wyświetlenie liczby osób z kodem pocztowym kończącym się na cyfrę 7_  _[Rozwiązanie](https://drive.google.com/file/d/1fp5STDa75WgC0C8KDj53UTJ2EM41vFjx/view?usp=sharing)_
   * **[Ćwiczenie 1.11](https://drive.google.com/file/d/19OSqIwX4u2cdTV218YR03e3oow2YeMWE/view?usp=sharing)** _- Wyświetlenie danych posortowanych alfabetycznie wg miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1i9sRX9flUA-XupIBhzt-xR_NV9njjsuG/view?usp=sharing)_
 * **Baza Danych Osoby 5000**
+  * **[Ćwiczenie 2.0]()** _- Usunięcie z bazy danych wykazu osób z poprzedniego zadadania_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.1]()** _- Zaimportowanie danych z pliku Osoby 5000_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.2]()** _- Wyświetlenie najbardziej zadłużónej osoby_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.3]()** _- Wyświetlenie osoby dodanej w 2012 roku z największą nadpłatą_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.4]()** _- Obliczenie średniego salda dla wszystkich osób_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.5]()** _- Wyświetlenie ilości wpłat z każdej miejscowości_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.6]()** _- Wyświetlenie osób o saldzie większym niż średnie saldo_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.7]()** _- Wyświetlenie miejscowości o największym zadłużeniu i najmniejszej ilości wpłat_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.8]()** _- Wyświetlenie średniego salda z każdej miejscowości oraz ilość wpłat_ _[Rozwiązanie]_
+  * **[Ćwiczenie 2.9]()** _- Wyświetlenie ilości wpłat przypadającą na rok dodania do bazy_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.10]()** _- Wyświetlenie ilości osób dodaną na przypadający rok_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.11]()** _- Wyświetlenie średniej ilości wpłat przypadającą na każdą miejscowość_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.12]()** _- Wyświetlenie średniego salda osób urodzonych pomiędzy 2000 - 2005 z uwzględnieniem ich miejsca zamieszkania_ _[Rozwiązanie]()_
