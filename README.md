@@ -25,6 +25,6 @@ _Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Test
   * **[Ćwiczenie 2.7](https://drive.google.com/file/d/1PpL6o-QSFBnBI3qVSxLmNBzXkTwteTzV/view?usp=sharing)** _- Wyświetlenie miejscowości o największym zadłużeniu i najmniejszej ilości wpłat_ _[Rozwiązanie](https://drive.google.com/file/d/1yVdCSzoVuxq7aB5Cwp5WiQ9JCULk3Ny3/view?usp=sharing)_
   * **[Ćwiczenie 2.8](https://drive.google.com/file/d/17sTedi5eL6zplMtcxeUcl-YydGeuq2eG/view?usp=sharing)** _- Wyświetlenie średniego salda z każdej miejscowości oraz ilość wpłat_ _[Rozwiązanie](https://drive.google.com/file/d/1KJOS0CcWxBbqwZse9OD0savy--FXvyQD/view?usp=sharing)_
   * **[Ćwiczenie 2.9](https://drive.google.com/file/d/1sgqaZqlp9vCD7RkpdYt8V_lkeJUjnMr4/view?usp=sharing)** _- Wyświetlenie ilości wpłat przypadającą na rok dodania do bazy_ _[Rozwiązanie](https://drive.google.com/file/d/1q94i2xcj_IVW1CtmdaGEM-fMy69SQwMI/view?usp=sharing)_
-  * **[Ćwiczenie 2.10]()** _- Wyświetlenie ilości osób dodaną na przypadający rok_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.10](https://drive.google.com/file/d/1QCkWADDS63CbvD4GjngX6l6gX44A9PnQ/view?usp=sharing)** _- Wyświetlenie ilości osób dodaną na przypadający rok_ _[Rozwiązanie](https://drive.google.com/file/d/1ImSrGH1RKuJecUFbyHy-LzJ1CS8Zw5nM/view?usp=sharing)_
   * **[Ćwiczenie 2.11]()** _- Wyświetlenie średniej ilości wpłat przypadającą na każdą miejscowość_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.12]()** _- Wyświetlenie średniego salda osób urodzonych pomiędzy 2000 - 2005 z uwzględnieniem ich miejsca zamieszkania_ _[Rozwiązanie]()_
