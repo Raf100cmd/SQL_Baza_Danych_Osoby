@@ -21,7 +21,7 @@ _Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Test
   * **[Ćwiczenie 2.3](https://drive.google.com/file/d/1i3TWRFE2oGY9Sx1ApbFjabGz8BDB8f9f/view?usp=sharing)** _- Wyświetlenie osoby dodanej w 2012 roku z największą nadpłatą_ _[Rozwiązanie](https://drive.google.com/file/d/1mp8fjtRf294VscYBF4xtFO1HTwbq1DHG/view?usp=sharing)_
   * **[Ćwiczenie 2.4](https://drive.google.com/file/d/1Nm1-WEbavCKChgbRBmq7lCmOwA7LA6vw/view?usp=sharing)** _- Obliczenie średniego salda dla wszystkich osób_ _[Rozwiązanie](https://drive.google.com/file/d/1n5vneDoOFfYQpcJW2HQ4zJIut0yt72Mq/view?usp=sharing)_
   * **[Ćwiczenie 2.5](https://drive.google.com/file/d/1NRiVLpkyJZAKygpq_RC4GlW_GjwLIjaa/view?usp=sharing)** _- Wyświetlenie ilości wpłat z każdej miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1htHvKUJ8t54fMYX1_uezbNMPPaurVmdy/view?usp=sharing)_
-  * **[Ćwiczenie 2.6]()** _- Wyświetlenie osób o saldzie większym niż średnie saldo oraz ilości wpłat pomiędzy 50 - 80_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.6](https://drive.google.com/file/d/19By5noaUhvj5Luj0-UMIS8p-N72Lj-nc/view?usp=sharing)** _- Wyświetlenie osób o saldzie większym niż średnie saldo oraz ilości wpłat pomiędzy 50 - 80_ _[Rozwiązanie](https://drive.google.com/file/d/1w81cMIXIfxlO2fTlEfXqWG0efsfPIqtE/view?usp=sharing)_
   * **[Ćwiczenie 2.7]()** _- Wyświetlenie miejscowości o największym zadłużeniu i najmniejszej ilości wpłat_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.8]()** _- Wyświetlenie średniego salda z każdej miejscowości oraz ilość wpłat_ _[Rozwiązanie]_
   * **[Ćwiczenie 2.9]()** _- Wyświetlenie ilości wpłat przypadającą na rok dodania do bazy_ _[Rozwiązanie]()_
