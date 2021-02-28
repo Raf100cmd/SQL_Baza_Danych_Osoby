@@ -23,7 +23,7 @@ _Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Test
   * **[Ćwiczenie 2.5](https://drive.google.com/file/d/1NRiVLpkyJZAKygpq_RC4GlW_GjwLIjaa/view?usp=sharing)** _- Wyświetlenie ilości wpłat z każdej miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1htHvKUJ8t54fMYX1_uezbNMPPaurVmdy/view?usp=sharing)_
   * **[Ćwiczenie 2.6](https://drive.google.com/file/d/19By5noaUhvj5Luj0-UMIS8p-N72Lj-nc/view?usp=sharing)** _- Wyświetlenie osób o saldzie większym niż średnie saldo oraz ilości wpłat pomiędzy 50 - 80_ _[Rozwiązanie](https://drive.google.com/file/d/1w81cMIXIfxlO2fTlEfXqWG0efsfPIqtE/view?usp=sharing)_
   * **[Ćwiczenie 2.7](https://drive.google.com/file/d/1PpL6o-QSFBnBI3qVSxLmNBzXkTwteTzV/view?usp=sharing)** _- Wyświetlenie miejscowości o największym zadłużeniu i najmniejszej ilości wpłat_ _[Rozwiązanie](https://drive.google.com/file/d/1yVdCSzoVuxq7aB5Cwp5WiQ9JCULk3Ny3/view?usp=sharing)_
-  * **[Ćwiczenie 2.8]()** _- Wyświetlenie średniego salda z każdej miejscowości oraz ilość wpłat_ _[Rozwiązanie]_
+  * **[Ćwiczenie 2.8](https://drive.google.com/file/d/17sTedi5eL6zplMtcxeUcl-YydGeuq2eG/view?usp=sharing)** _- Wyświetlenie średniego salda z każdej miejscowości oraz ilość wpłat_ _[Rozwiązanie](https://drive.google.com/file/d/1KJOS0CcWxBbqwZse9OD0savy--FXvyQD/view?usp=sharing)_
   * **[Ćwiczenie 2.9]()** _- Wyświetlenie ilości wpłat przypadającą na rok dodania do bazy_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.10]()** _- Wyświetlenie ilości osób dodaną na przypadający rok_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.11]()** _- Wyświetlenie średniej ilości wpłat przypadającą na każdą miejscowość_ _[Rozwiązanie]()_
