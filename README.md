@@ -1,4 +1,6 @@
 # SQL_Baza_Danych_Osoby
+_Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiały z kursu Tester oprogramowania (Software Development Academy)_
+
 * **Baza Danych Osoby**
   * **[Ćwiczenie 1.0](https://drive.google.com/file/d/1ZKg9u0ZVxvd9u4V7TJZnDVd29veKepdX/view?usp=sharing)**  _- Tworzenie tabeli_ _[Rozwiązanie](https://drive.google.com/file/d/1eMh32v-wkt0PyBftkOt0QzWPzSEd90ox/view?usp=sharing)_
   * **[Ćwiczenie 1.1](https://drive.google.com/file/d/1ygpXKQuQ62UHDpx0EBDAcg3bx6gIgC5J/view?usp=sharing)**  _- Importowanie danych do tabeli_ _[Rozwiązanie](https://drive.google.com/file/d/1uRguN7HkJ8oxQNIJ2Wlkw21rWLdXYDk0/view?usp=sharing)_
