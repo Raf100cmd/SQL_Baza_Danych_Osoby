@@ -19,7 +19,7 @@ _Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Test
   * **[Ćwiczenie 2.1](https://drive.google.com/file/d/1YdRNkrfdNU0awiA4_Pow_GsqaCc2JpMQ/view?usp=sharing)** _- Zaimportowanie danych z pliku Osoby 5000_ _[Rozwiązanie](https://drive.google.com/file/d/1w5ffS7XXx4hFxi6ph_0pMzdbXTTS9K7d/view?usp=sharing)_
   * **[Ćwiczenie 2.2](https://drive.google.com/file/d/1LuW-8faaGtNUwhXCPk4RAeIcbv0phBM5/view?usp=sharing)** _- Wyświetlenie najbardziej zadłużonej osoby_ _[Rozwiązanie](https://drive.google.com/file/d/18t8zJ-WFTjbMQTDUNiH1LXJ3vePu7gDP/view?usp=sharing)_
   * **[Ćwiczenie 2.3](https://drive.google.com/file/d/1i3TWRFE2oGY9Sx1ApbFjabGz8BDB8f9f/view?usp=sharing)** _- Wyświetlenie osoby dodanej w 2012 roku z największą nadpłatą_ _[Rozwiązanie](https://drive.google.com/file/d/1mp8fjtRf294VscYBF4xtFO1HTwbq1DHG/view?usp=sharing)_
-  * **[Ćwiczenie 2.4]()** _- Obliczenie średniego salda dla wszystkich osób_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.4](https://drive.google.com/file/d/1Nm1-WEbavCKChgbRBmq7lCmOwA7LA6vw/view?usp=sharing)** _- Obliczenie średniego salda dla wszystkich osób_ _[Rozwiązanie](https://drive.google.com/file/d/1n5vneDoOFfYQpcJW2HQ4zJIut0yt72Mq/view?usp=sharing)_
   * **[Ćwiczenie 2.5]()** _- Wyświetlenie ilości wpłat z każdej miejscowości_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.6]()** _- Wyświetlenie osób o saldzie większym niż średnie saldo_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.7]()** _- Wyświetlenie miejscowości o największym zadłużeniu i najmniejszej ilości wpłat_ _[Rozwiązanie]()_
