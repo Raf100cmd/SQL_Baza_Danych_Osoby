@@ -16,7 +16,7 @@ _Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Test
   * **[Ćwiczenie 1.11](https://drive.google.com/file/d/19OSqIwX4u2cdTV218YR03e3oow2YeMWE/view?usp=sharing)** _- Wyświetlenie danych posortowanych alfabetycznie wg miejscowości_ _[Rozwiązanie](https://drive.google.com/file/d/1i9sRX9flUA-XupIBhzt-xR_NV9njjsuG/view?usp=sharing)_
 * **Baza Danych Osoby 5000**
   * **[Ćwiczenie 2.0](https://drive.google.com/file/d/1xZRa1ui1w2FtRWO8CRwyiIrxX50djLfb/view?usp=sharing)** _- Usunięcie z bazy danych wykazu osób z poprzedniego zadania_ _[Rozwiązanie](https://drive.google.com/file/d/1JkG7ynaRcK2p6sHtaMI3d7UQoOonNG0I/view?usp=sharing)_
-  * **[Ćwiczenie 2.1]()** _- Zaimportowanie danych z pliku Osoby 5000_ _[Rozwiązanie]()_
+  * **[Ćwiczenie 2.1](https://drive.google.com/file/d/1YdRNkrfdNU0awiA4_Pow_GsqaCc2JpMQ/view?usp=sharing)** _- Zaimportowanie danych z pliku Osoby 5000_ _[Rozwiązanie](https://drive.google.com/file/d/1w5ffS7XXx4hFxi6ph_0pMzdbXTTS9K7d/view?usp=sharing)_
   * **[Ćwiczenie 2.2]()** _- Wyświetlenie najbardziej zadłużónej osoby_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.3]()** _- Wyświetlenie osoby dodanej w 2012 roku z największą nadpłatą_ _[Rozwiązanie]()_
   * **[Ćwiczenie 2.4]()** _- Obliczenie średniego salda dla wszystkich osób_ _[Rozwiązanie]()_
