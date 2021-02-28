@@ -1,5 +1,5 @@
 # SQL_Baza_Danych_Osoby
-_Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiały z kursu Tester oprogramowania (Software Development Academy)_
+_Baza Danych "Osoby" oraz Baza Danych "Osoby 5000" są materiałami z kursu Tester oprogramowania (Software Development Academy)_
 
 * **Baza Danych Osoby**
   * **[Ćwiczenie 1.0](https://drive.google.com/file/d/1ZKg9u0ZVxvd9u4V7TJZnDVd29veKepdX/view?usp=sharing)**  _- Tworzenie tabeli_ _[Rozwiązanie](https://drive.google.com/file/d/1eMh32v-wkt0PyBftkOt0QzWPzSEd90ox/view?usp=sharing)_
